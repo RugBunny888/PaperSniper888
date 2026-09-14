@@ -1,0 +1,38 @@
+Paper Sniper
+Simulated Solana new-pair trading against live DexScreener data. No real funds, no real trades.
+This is a simulation using live market data but fake money. It exists to show you honestly whether a simple rug-filter + snipe strategy would have made or lost money — not to predict future winners. Most real snipe bots lose to fees, slippage, and rugs even when their dashboards look like this one.
+Start simulation
+Reset
+
+Idle
+PAPER BALANCE
+$1,000.00
+P&L
+$0.00
+OPEN POSITIONS
+0
+TRADES CLOSED
+0
+WIN RATE
+—
+PAIRS SCANNED
+0
+BALANCE CURVE
+
+OPEN POSITIONS
+TOKEN
+ENTRY
+NOW
+CHANGE
+SIZE
+No open positions yet.
+RECENT CLOSED TRADES
+TOKEN
+ENTRY
+EXIT
+RESULT
+REASON
+No closed trades yet.
+ACTIVITY LOG
+Waiting for simulation to start…
+Data source: DexScreener public API (free, no key, ~public rate limit). Heuristics are basic (liquidity floor, age, buy/sell pressure) and are not a guarantee against rug pulls. This tool does not execute any real transactions.
